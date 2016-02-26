@@ -1,1 +1,2 @@
-# BusinessInformaticsBerlin
+#BusinessInformaticsBerlin
+Nadine Mohamed Magdi
