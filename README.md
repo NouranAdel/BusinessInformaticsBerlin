@@ -1,4 +1,5 @@
 # BusinessInformaticsBerlin
+omar gamal 
 salma
 Mahmoud khaled El Sebaie 
 Nadine Mohamed Magdi
