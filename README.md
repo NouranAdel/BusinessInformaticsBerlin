@@ -1,1 +1,2 @@
 # BusinessInformaticsBerlin
+Alaa Elshalakany
